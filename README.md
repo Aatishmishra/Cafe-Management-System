@@ -43,11 +43,4 @@ Thanks for contributing!
 - CSS
 - Bootstrap
 - Javascript
-- JQuery
-
-## Authors
-
-- [@Kavyam172](https://www.github.com/Kavyam172)
-
-## Maintained By
-- Kavyam Sachdeva, Technical Head, Open Source Chandigarh(https://www.github.com/Kavyam172)
+- JQuer
